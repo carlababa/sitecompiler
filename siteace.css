@@ -1,0 +1,13 @@
+/* CSS declarations go here */
+.hidden_div{
+	display:none;
+}
+
+ol {
+	margin-top: 25px;
+}
+
+p {
+	margin-top: 10px;
+}
+
